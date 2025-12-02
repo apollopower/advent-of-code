@@ -1,0 +1,12 @@
+# === Rust / Cargo ===
+
+# Compiled artifacts
+target/
+**/target/
+
+# Rust build outputs
+debug/
+release/
+
+# Generated files by Cargo
+Cargo.lock

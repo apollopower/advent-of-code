@@ -10,3 +10,5 @@ release/
 
 # Generated files by Cargo
 Cargo.lock
+
+*.txt
